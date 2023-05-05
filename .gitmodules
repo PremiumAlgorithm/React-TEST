@@ -1,0 +1,3 @@
+[submodule "public/ethereum-boilerplate"]
+	path = public/ethereum-boilerplate
+	url = https://github.com/PremiumAlgorithm/ethereum-boilerplate.git
